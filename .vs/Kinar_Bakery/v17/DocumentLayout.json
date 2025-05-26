@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kinar_Bakery\\Kinar_Bakery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar_bakery\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar_bakery\\autentiikasi\\autentikasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:autentiikasi\\autentikasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar_Bakery\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|c:\\kinar_bakery\\kinar_bakery\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar_Bakery\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|C:\\Kinar_Bakery\\Kinar_Bakery\\homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C99AD38-2665-4914-94DA-4E5EF6DCC797}|Kinar_Bakery.csproj|solutionrelative:homedasboardkasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 637,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Akun.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\Model\\Akun.cs",
+              "RelativeDocumentMoniker": "Model\\Akun.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\Model\\Akun.cs",
+              "RelativeToolTip": "Model\\Akun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:12:05.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Autentikasi.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\Autentiikasi\\Autentikasi.cs",
+              "RelativeDocumentMoniker": "Autentiikasi\\Autentikasi.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\Autentiikasi\\Autentikasi.cs",
+              "RelativeToolTip": "Autentiikasi\\Autentikasi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:06:26.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\Register.cs [Design]",
+              "RelativeToolTip": "Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:01:02.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "Register.Designer.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\Register.Designer.cs",
+              "RelativeToolTip": "Register.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:01:00.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:00:56.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeDasboardkasir.cs [Design]",
+              "DocumentMoniker": "C:\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardkasir.cs",
+              "RelativeDocumentMoniker": "HomeDasboardkasir.cs",
+              "ToolTip": "C:\\Kinar_Bakery\\Kinar_Bakery\\HomeDasboardkasir.cs [Design]",
+              "RelativeToolTip": "HomeDasboardkasir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:00:49.533Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
